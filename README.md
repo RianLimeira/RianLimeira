@@ -6,6 +6,9 @@
    - Email: rianlimeira@gmail.com
    
    - Linkedin:https://www.linkedin.com/in/rian-gustavo-681578186/
+
+
+![snake gif](https://github.com/RianLimeira/RianLimeira/blob/output/github-contribution-grid-snake.svg)
    
 
 <!---
