@@ -6,11 +6,12 @@
    - Email: rianlimeira@gmail.com
    
    - Linkedin:https://www.linkedin.com/in/rian-gustavo-681578186/
+   <!---
 <div align="">
  <a href="https://github.com/RianLimeira">
- <img height="160em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=RianLimeira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="160em" src=" https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=RianLimeira&layout=compact&langs_count=7&theme=radical"/>
-</div>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RianLimeira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianLimeira&layout=compact&langs_count=7&theme=radical"/>
+</div>--->
 <div style="display: inline_block"><br>
  
   <img align="center" alt="PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
