@@ -5,7 +5,7 @@
   
    - Email: rianlimeira@gmail.com
    
-   - Linkedin:https://www.linkedin.com/in/rian-gustavo-681578186/
+   - Linkedin: https://www.linkedin.com/in/rianlimeira/
    
  ## Sou formado em Sistema de Informação pela Unifafibe (Bebedouro/SP), e desenvolvendo hábilidades no mundo da programação, atualmente estou desenvolvendo alguns freelance para sempre mergulhar mais no mundo dos códigos.
  
